@@ -1,3 +1,5 @@
+#Now available on github
+
 #load data on R
 read.dta("jtpa")
 
